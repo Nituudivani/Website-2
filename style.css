@@ -1,0 +1,45 @@
+
+.d-flex{
+    width: 600px;
+    margin-left: 40px;
+}
+.x{
+    
+    font-size: larger;
+    margin-left: 55px;
+    
+
+}
+
+.icon{
+    margin-left: 200px;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.consume-1{
+    text-align: center;
+    
+}
+.consume-2{
+    text-align: center;
+}
+
+.cord{
+    height: 00px;
+}
+
+.consume-3{
+    text-align: center;
+}
+
+
+
