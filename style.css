@@ -1,45 +1,133 @@
-
-.d-flex{
-    width: 600px;
+.d-flex {
+    width: 500px;
     margin-left: 40px;
 }
-.x{
-    
+
+.x {
+
     font-size: larger;
-    margin-left: 55px;
-    
+    margin-left: 30px;
+
 
 }
 
-.icon{
-    margin-left: 200px;
+/* hover effect */
+
+/* .nav-item{
+    border: border-box;
 }
 
-.navbar{
+a:hover{
+    border: 2px solid white;
+} */
+
+.icon1 {
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+
+.navbar {
     display: flex;
     align-items: center;
 }
 
-*{
+/* login button */
+
+.btn {
+    margin-left: 20px;
+
+}
+
+* {
     margin: 0;
     padding: 0;
 }
 
-.consume-1{
+.consume-1 {
     text-align: center;
-    
+
 }
-.consume-2{
+
+.consume-2 {
     text-align: center;
 }
 
-.cord{
+.cord {
     height: 00px;
 }
 
-.consume-3{
+.consume-3 {
     text-align: center;
 }
 
+.consume-4 {
+    text-align: center;
+}
 
+.consume-5 {
+    text-align: center;
+}
 
+/* 
+.btn{
+    display: flex;
+    flex-direction: row;
+} */
+
+.inp {
+    width: 400px;
+}
+
+.but {
+    width: 90px;
+    background-color: lightcoral;
+    color: white;
+}
+
+.set {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.fab {
+    margin-left: 12px;
+}
+
+.fa-brands {
+    font-size: 30px;
+
+}
+
+.spca {
+    margin-top: 30px;
+}
+
+footer {
+    background-color: bisque;
+    margin-top: 60px;
+}
+
+.main {
+    padding: 40px;
+}
+
+.para {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.privancy {
+    margin-left: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.TermsConditions {
+    text-decoration: none;
+    color: black;
+}
