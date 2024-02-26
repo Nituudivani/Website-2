@@ -11,15 +11,6 @@
 
 }
 
-/* hover effect */
-
-/* .nav-item{
-    border: border-box;
-}
-
-a:hover{
-    border: 2px solid white;
-} */
 
 .icon1 {
     margin-left: 10px;
@@ -29,13 +20,15 @@ a:hover{
 
 .navbar {
     display: flex;
-    align-items: center;
+    /* align-items: center;
+    height: fit-content; */
 }
 
-/* login button */
 
 .btn {
-    margin-left: 20px;
+    margin-left: 50px;
+    /* margin-bottom: 20px; */
+
 
 }
 
@@ -69,11 +62,6 @@ a:hover{
     text-align: center;
 }
 
-/* 
-.btn{
-    display: flex;
-    flex-direction: row;
-} */
 
 .inp {
     width: 400px;
@@ -130,4 +118,26 @@ footer {
 .TermsConditions {
     text-decoration: none;
     color: black;
+}
+
+.card:hover img {
+    scale: 1.2;
+}
+
+.nav-item:hover a {
+    scale: 1.2;
+}
+
+.nav-link dropdown-toggle {
+    color: black;
+}
+
+.table-1 {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    font-style: inherit;
+
 }
